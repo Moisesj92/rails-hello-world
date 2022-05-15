@@ -19,6 +19,8 @@ Things you may want to cover:
         `Docker container exec -it $[ID_CONTENDOR] bash`
     4. Una vez dentro del contenedor inicia un nuevo proyecto de rails
         `rails new /app`
+    5. Luego de crear la nueva base de rails inicia el servidor
+        `rails s -b 0.0.0.0`
 
 * Database creation
 
